@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a478e0a7.css",
+    "main.js": "/static/js/main.4082ea37.js",
+    "static/js/787.30b54006.chunk.js": "/static/js/787.30b54006.chunk.js",
+    "static/media/login-background.jpg": "/static/media/login-background.4eda4e559b3472080dfa.jpg",
+    "static/media/logo.png": "/static/media/logo.d14f62a2b2d51bf18d0e.png",
+    "static/media/foodieLogo.png": "/static/media/foodieLogo.bc4e8ff3faa6b1c06271.png",
+    "index.html": "/index.html",
+    "main.a478e0a7.css.map": "/static/css/main.a478e0a7.css.map",
+    "main.4082ea37.js.map": "/static/js/main.4082ea37.js.map",
+    "787.30b54006.chunk.js.map": "/static/js/787.30b54006.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a478e0a7.css",
+    "static/js/main.4082ea37.js"
+  ]
+}
