@@ -1,0 +1,11 @@
+.login-button {
+    margin-bottom: 20px;
+    width: 300px;
+    padding: 20px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    background-color: rgb(175, 28, 40);
+    cursor: pointer;
+  }
+  
